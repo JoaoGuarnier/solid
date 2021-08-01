@@ -1,4 +1,4 @@
-                                                Curso SOLID Alura
+												Curso SOLID Alura
                                                           
                                                           
                                                           
@@ -34,7 +34,18 @@ Princípio Da Responsabilidade Única
 	em um programa de computador deve ter responsabilidade 
 	sobre uma única parte da funcionalidade desse programa 
 	e deve encapsular essa parte.
+	
+	
+	
+Open Closed Principle
+Princípio Aberto Fechado
 
+
+	 O princípio do aberto/fechado estabelece que 
+	 "entidades de software devem ser abertas para extensão, 
+	 mas fechadas para modificação"; isto é, 
+	 a entidade pode permitir que o seu comportamento seja 
+	 estendido sem modificar seu código-fonte
 
 
 

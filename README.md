@@ -28,6 +28,7 @@ Acoplamento - Ação de acoplar. Agrupamento aos pares
 														
 														
 Single Responsibility Principle
+<br>
 Princípio Da Responsabilidade Única
 
 	É um princípio que afirma que cada módulo,classe ou função 
@@ -38,6 +39,7 @@ Princípio Da Responsabilidade Única
 	
 	
 Open Closed Principle
+<br>
 Princípio Aberto Fechado
 
 
@@ -49,6 +51,7 @@ Princípio Aberto Fechado
 	
 	
 Liskov Substitution Principle
+<br>
 Principio Da Substituição de Liskov
 
 	O princípio tem como objetivo nos alertar quanto a 

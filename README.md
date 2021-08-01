@@ -1,4 +1,4 @@
-												Curso SOLID Alura
+							Curso SOLID Alura
                                                           
                                                           
                                                           
@@ -24,7 +24,7 @@ Acoplamento - Ação de acoplar. Agrupamento aos pares
 	
 ----------------------------------------------------------------------------------------------------------------------------
 
-												SOLID
+							Principios SOLID
 														
 														
 Single Responsibility Principle
@@ -41,11 +41,19 @@ Open Closed Principle
 Princípio Aberto Fechado
 
 
-	 O princípio do aberto/fechado estabelece que 
-	 "entidades de software devem ser abertas para extensão, 
-	 mas fechadas para modificação"; isto é, 
-	 a entidade pode permitir que o seu comportamento seja 
-	 estendido sem modificar seu código-fonte
+	O princípio do aberto/fechado estabelece que 
+	"entidades de software devem ser abertas para extensão, 
+	mas fechadas para modificação"; isto é, 
+	a entidade pode permitir que o seu comportamento seja 
+	estendido sem modificar seu código-fonte
+	
+	
+Liskov Substitution Principle
+Principio Da Substituição de Liskov
+
+	O princípio tem como objetivo nos alertar quanto a 
+	utilização da herança, que é um poderoso mecanismo 
+	e deve ser utilizado com extrema parcimônia.
 
 
 

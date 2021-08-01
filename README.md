@@ -1,4 +1,4 @@
-                                                          Curso SOLID Alura
+                                                Curso SOLID Alura
                                                           
                                                           
                                                           
@@ -20,5 +20,21 @@ Acoplamento - Ação de acoplar. Agrupamento aos pares
 
 	Classes acopladas causam fragilidade no código
 	da aplicação, o que dificulta sua manutenção
+	
+	
+----------------------------------------------------------------------------------------------------------------------------
+
+												SOLID
+														
+														
+Single Responsibility Principle
+Princípio Da Responsabilidade Única
+
+	É um princípio que afirma que cada módulo,classe ou função 
+	em um programa de computador deve ter responsabilidade 
+	sobre uma única parte da funcionalidade desse programa 
+	e deve encapsular essa parte.
+
+
 
 

@@ -57,6 +57,29 @@ Principio Da Substituição de Liskov
 	O princípio tem como objetivo nos alertar quanto a 
 	utilização da herança, que é um poderoso mecanismo 
 	e deve ser utilizado com extrema parcimônia.
+	
+	
+	
+	
+Interface Segregation Principle
+<br>
+Princípio da segregação de Interface
+
+	O princípio da segregação de Interface afirma que 
+	nenhum cliente deve ser forçados a depender 
+	de métodos que não utiliza.
+	
+	
+	
+Dependency Inversion Principle
+<br>
+Princípio da inversão de dependência
+
+	De uma forma objetiva o princípio nos faz entender 
+	que sempre devemos depender de abstrações e não das 
+	implementações, afinal de contas, as abstrações mudam 
+	menos e facilitam a mudança de comportamento 
+	e as evoluções do código.
 
 
 
